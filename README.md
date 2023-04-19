@@ -15,15 +15,13 @@ En este repositorio podrán encontrar el material preparado para las clases y ev
 
 ### Clases 
 
-:file_folder: [Clase 1: Propiedades Finitas MCO y Perturbaciones No Esféricas](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/1.%20Perturbaciones%20No%20Esfericas) 
+:file_folder: [Clase 1: Perturbaciones No Esféricas - Heterocedasticidad](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/1.%20Perturbaciones%20No%20Esfericas%20-%20Heterocedasticidad) 
 
-:file_folder: [Clase 2: Heterocedasticidad](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/2.%20Heterocedasticidad)
+:file_folder: [Clase 2: Autocorrelación](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/3.%20Autocorrelaci%C3%B3n)
 
-:file_folder: [Clase 3: Autocorrelación](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/3.%20Autocorrelaci%C3%B3n)
+:file_folder: [Clase 3: Endogeneidad](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/4.%20Endogeneidad)
 
-:file_folder: [Clase 4: Endogeneidad](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/4.%20Endogeneidad)
-
-:file_folder: [Clase 5: Ecuaciones Simultáneas](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/5.%20Ecuaciones%20Simultaneas)
+:file_folder: [Clase 4: Ecuaciones Simultáneas](https://github.com/juanpalominoh/Econometria-Intermedia/tree/main/5.%20Ecuaciones%20Simultaneas)
 
 ---
 
